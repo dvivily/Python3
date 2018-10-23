@@ -1,3 +1,3 @@
 # Python3
-pyhon3 &amp;&amp;  <br/>
+pyhon3<br/>
 A fundamental spider for baidu baike
